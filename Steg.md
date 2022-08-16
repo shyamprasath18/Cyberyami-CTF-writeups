@@ -6,6 +6,8 @@ John sended some message to his friend in some other language or some other form
 
 `-- ----- .-. ... ...-- # -.-. ----- -.. ...-- # .---- ... # - .... ...-- # -... ...-- ... - # -- ...-- -.. .---- ..- --`
 
+By using cyberchef morse decode, we can get `M0RS3C0D31STH3B3STM3D1UM`
+
 FLAG: `WHL{M0RS3C0D31STH3B3STM3D1UM}`
 
 
@@ -16,6 +18,8 @@ FLAG: `WHL{M0RS3C0D31STH3B3STM3D1UM}`
 **Note : Flag format WHL{a-zA-Z0-9_}**
 
 `444 8 0 444 7777 0 7777 6 2 777 8 0 444 8 0 444 7777 0 888 88 555 66 33 777 2 22 555 33`
+
+- i just manually typed all numbers combinations with the image as `4 three times means i` ... like that 
 
 FLAG: `WHL{it_is_smart_it_is_vulnerable}`
 
@@ -34,4 +38,5 @@ FLAG: `whl{h1D1nG_d4T4_1n_qR}`
 Cold ice cubes on white space. Free space for your decoration.
 
 - It is whitespace encoding using `dcode.fr` got this,
+
 FLAG: `WHL{Sp4c3_3V3rYwh3R3}`
