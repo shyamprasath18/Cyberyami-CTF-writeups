@@ -28,6 +28,8 @@ Note : flag format WHL{a-zA-Z0-9_}
 
 http://3.110.211.97
 
+`goto base url and open network tab and reload the page now in network tab we can see letters of flag`
+
 FLAG: `WHL{Th3qU1ck_Br0wnFox}`
 
 # CHALLENGE: CyberStore
@@ -35,6 +37,9 @@ FLAG: `WHL{Th3qU1ck_Br0wnFox}`
 This is the Cyber Store where you buy online product.
 
 http://13.233.118.98
+
+`go to a product and open burp and nd intercept request now there will be a admin parameter which is false make it true and in response you got the flag`
+
 
 FLAG: `WHL{Suc3sSfuLly_PurCh4s3d}`
 
